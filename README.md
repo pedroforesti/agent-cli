@@ -1,5 +1,3 @@
 # README
 
-:/
-sdasdas
-xxx
+test
